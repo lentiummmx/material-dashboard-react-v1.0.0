@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+__MACOSX/
+node_modules/
+src/.DS_Store
+src/assets/.DS_Store
+src/assets/img/.DS_Store
+src/components/.DS_Store
+src/containers/.DS_Store
+~

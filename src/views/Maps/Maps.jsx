@@ -26,7 +26,8 @@ class Maps extends React.Component{
     render(){
         return (
             <CustomSkinMap
-                googleMapURL="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE"
+                /*- googleMapURL="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_HERE" -*/
+                googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyD4fJPWR-F3GlZWaW9XaK0MZmt2f8GP6ZU"
                 loadingElement={<div style={{ height: `100%` }} />}
                 containerElement={<div style={{ height: `100vh` }} />}
                 mapElement={<div style={{ height: `100%` }} />}
